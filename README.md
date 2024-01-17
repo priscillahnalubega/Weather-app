@@ -6,3 +6,5 @@ A simple CLI weather application that retrieves weather data for a specified loc
 - Call an online weather API to fetch the weather data
 - Display the city name, the current weather conditions, and the current temperature
 - Format the output visually using colours, spacing, and emojis.
+
+_debugging code for this app_
