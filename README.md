@@ -8,3 +8,4 @@ A simple CLI weather application that retrieves weather data for a specified loc
 - Format the output visually using colours, spacing, and emojis.
 
 _debugging code for this app_
+reviewing code for this app
